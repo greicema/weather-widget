@@ -1,6 +1,6 @@
 import style from './style.css';
 
-const API_KEY = 'a4bffe598f13db7ea5a86e5a9d4642d4';
+const API_KEY = generate you api_key and insert it here;
 
 class theWeather extends HTMLElement {
 
