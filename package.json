@@ -1,0 +1,24 @@
+{
+    "name": "weather-widget",
+    "version": "1.0.0",
+    "description": "Weather Widget using Web Component and Webpack for bundle.",
+    "main": "dist/main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "webpack serve",
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/greicemsj/weather-widget.git"
+    },
+    "author": "“Greice <“sgreicemaraj@gmail.com”>",
+    "license": "MIT",
+    "devDependencies": {
+        "dotenv-webpack": "^3.0.0",
+        "raw-loader": "^4.0.2",
+        "webpack": "^5.36.2",
+        "webpack-cli": "^4.6.0",
+        "webpack-dev-server": "^3.11.2"
+    }
+}
